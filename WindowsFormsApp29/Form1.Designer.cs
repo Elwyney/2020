@@ -37,7 +37,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(231, 71);
             this.button1.TabIndex = 0;
-            this.button1.Text = "ПЕРВАЯ ВЕРСИЯЯ";
+            this.button1.Text = "ПЕРВАЯ ВЕРСИЯЯ.2.0";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // Form1
